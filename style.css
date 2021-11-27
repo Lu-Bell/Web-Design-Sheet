@@ -1,0 +1,80 @@
+header h1{
+    text-align: center;
+}
+
+#colors {
+    border: 1px black solid;
+    margin: 10px auto;
+    padding: 20px;
+}
+#colors li{
+    display: inline-block;
+    margin: 0 10px;
+}
+#colors #blue{
+    background-color: blue;
+    color: white;
+    padding: 20px 40px;
+}
+#colors #green{
+    background-color:green;
+    color: white;
+    padding: 20px 40px;
+}
+#colors #purple{
+    background-color:purple;
+    color: white;
+    padding: 20px 40px;
+}
+#colors #black{
+    background-color:black;
+    color: white;
+    padding: 20px 40px;
+}
+#fonts{
+    border: 1px black solid;
+    margin: 10px auto;
+    padding: 20px;
+}
+#fonts li{
+    display: inline-block;
+    margin: 0 10px;
+}
+#fonts #sans-serif{
+    border: 1px black solid;
+    font-family: Sans-serif;
+}
+#sans-serif p{
+    font-weight: bolder;
+}
+#fonts #arial{
+    border: 1px black solid;
+    font-family: Arial;
+    font-weight: bold;
+}
+#arial p{
+    font-weight: lighter;
+}
+#fonts #helvetica{
+    border: 1px black solid;
+    font-family: Helvetica;
+}
+#fonts #courier{
+    border: 1px black solid;
+    font-family: Courier;
+}
+#fonts #brush-script{
+    border: 1px black solid;
+    font-family: 'Brush Script MT', cursive;
+}
+#fonts #trebuchet{
+    border: 1px black solid;
+    font-family: 'Trebuchet MT', sans-serif;
+}
+#fonts #times-new-roman{
+    border: 1px black solid;
+    font-family: 'Times New Roman', serif;
+}
+#text-style{
+    border: 1px black solid;
+}
